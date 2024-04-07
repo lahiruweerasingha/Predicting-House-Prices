@@ -3,7 +3,7 @@
 This project focuses on predicting house prices using various machine learning techniques, including neural networks and traditional regression models. The dataset used for this analysis is the Boston housing dataset, obtained from Kaggle. The dataset contains various features related to housing attributes, such as crime rate, proportion of residential land, air pollution levels, average number of rooms, and more. The target variable is the median value of owner-occupied homes.
 
 ## Dataset obtained from:
-https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Faltavish%2Fboston-housing-dataset
+https://www.kaggle.com/datasets/altavish/boston-housing-dataset
 
 ## Technical Stack
 
